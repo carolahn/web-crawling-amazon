@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.3
+html-parser==0.2
+html5lib==1.1
+ply==3.11
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.0.1
+urllib3==1.26.2
+webencodings==0.5.1
